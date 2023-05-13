@@ -172,3 +172,17 @@ ul {
   border: 1px solid white;
   padding: 100px 0 0 30px;
 }
+
+/* Follow */
+
+.follow {
+  border: 1px solid darkgreen;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  margin: 30px 0 30px;
+}
+
+.follow * {
+  margin-right: 10px;
+}
